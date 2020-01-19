@@ -8,4 +8,4 @@ See a video of [Zombo.com, VR](https://twitter.com/terrycavanagh/status/12185798
 
 # Builds
 
-Coming soon, once I figure out how to distribute them!
+Work in progress WebVR build (currently no audio, and it shouldn't show controllers): https://terrycavanaghgames.com/vr/zombocom/
